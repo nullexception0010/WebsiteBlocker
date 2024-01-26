@@ -1,0 +1,14 @@
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\bin\Release\net8.0\WebSiteBlocker.exe
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\bin\Release\net8.0\WebSiteBlocker.deps.json
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\bin\Release\net8.0\WebSiteBlocker.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\bin\Release\net8.0\WebSiteBlocker.dll
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\bin\Release\net8.0\WebSiteBlocker.pdb
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.dll
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\refint\WebSiteBlocker.dll
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.pdb
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\WebSiteBlocker.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Desktop\WebSiteBlocker\WebSiteBlocker\obj\Release\net8.0\ref\WebSiteBlocker.dll
